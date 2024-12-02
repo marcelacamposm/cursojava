@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //importando biblioteca para scanner
 
 
 public class Main {
