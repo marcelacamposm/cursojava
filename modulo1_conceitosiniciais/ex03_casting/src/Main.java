@@ -1,4 +1,4 @@
-public class Main {
+public class Main { // oioi
     public static void main(String[] args) {
 
         double b, B, h, area;
