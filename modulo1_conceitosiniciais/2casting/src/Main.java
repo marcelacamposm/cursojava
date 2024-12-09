@@ -5,7 +5,7 @@ public class Main { // Início da classe Main, onde o código será executado.
 
         b = 6.0; // Inicialização da variável 'b' com valor 6.0 (usando ponto para número decimal).
         B = 8.0; // Inicialização da variável 'B' com valor 8.0.
-        h = 5.0; // Inicialização da variável 'h' com valor 5.0.
+        h = 5.0; // Inicialização da variável 'h' com valor 5.0....
 
         area = (b + B) / 2.0 * h; // Cálculo da área do trapézio usando a fórmula: ((b + B) / 2) * h.
 
