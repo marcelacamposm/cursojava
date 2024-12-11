@@ -41,6 +41,9 @@ public class Main {
             System.out.println("Larger area: Y");
         }
 
+
+
+
         sc.close(); // Fecha o Scanner para liberar recursos
     }
 }
