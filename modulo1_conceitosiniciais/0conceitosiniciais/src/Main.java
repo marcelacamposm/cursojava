@@ -12,7 +12,7 @@ public class Main { // Define uma classe chamada "Main".
         double renda = 4000.0; // Número decimal.
 
         // Configuração de formato regional:
-        Locale.setDefault(Locale.US); // Define o formato regional para EUA, alterando o separador decimal para ponto (.).
+        Locale.setDefault(Locale.US); // Define o formato regional para EUA, alterando o separador decimal para o ponto (.).
 
         // Mais variáveis de exemplo:
         int y = 5; // Número inteiro.
